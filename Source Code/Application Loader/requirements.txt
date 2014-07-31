@@ -1,0 +1,9 @@
+application_colour
+application_name
+application_executable
+application_icon
+application_splashimage
+application_netmajorversion
+application_splashimage
+application_netmajorversion
+application_netminorversion
