@@ -1,4 +1,4 @@
-Application-Loader
+Application Loader
 ==================
 
 Application Loader is a simple program that checks the registry for a specified version of the .NET framework. If the .NET framwork appears to be installed, Application Loader will then launch the program specified in the program's input file. Application Loader is useful as a loader for .NET-enabled programs.
